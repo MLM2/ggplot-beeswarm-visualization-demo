@@ -14,18 +14,3 @@ This project demonstrates the use of `plotnine` (Python's ggplot2 equivalent) an
 - matplotlib
 - Power BI (optional)
 
-## Project Structure:
-.
-├── data
-│   └── synthetic_data.csv
-├── notebooks
-│   ├── ggplot_visualization.ipynb
-│   └── beeswarm_visualization.ipynb
-├── powerbi
-│   └── powerbi_layout.pbix
-├── src
-│   ├── data_ingestion.py
-│   ├── ggplot_plotting.py
-│   └── beeswarm_plotting.py
-├── README.md
-└── requirements.txt
